@@ -1,0 +1,10 @@
+/* src/components/ImageTwo.css */
+.image {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.image img {
+    max-width: 100%;
+    height: auto;
+}

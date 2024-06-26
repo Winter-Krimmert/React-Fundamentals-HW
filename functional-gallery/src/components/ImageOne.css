@@ -1,0 +1,11 @@
+/* src/components/ImageOne.css */
+.image {
+    max-width: 250px; /* Adjust max-width to control the size */
+    margin: 0 auto; /* Center the image horizontally */
+}
+
+.image img {
+    width: 100%; /* Ensure the image fills its container */
+    height: 50px; /* Maintain aspect ratio */
+    display: block; /* Remove default bottom margin */
+}
